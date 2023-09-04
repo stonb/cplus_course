@@ -1,5 +1,7 @@
 #include <iostream>
 
+//Program that accepts X numbers and finds their average
+//It is intended for simple input output practice
 int main(){
     double 
         firstNum = 0,
