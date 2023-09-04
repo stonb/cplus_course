@@ -1,0 +1,86 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic Libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static Libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Dependency directories
+bin/
+build/
+lib/
+
+# CMake build directory
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+CMakeTmp/
+CMakeInstall.cmake
+CPackConfig.cmake
+install_manifest.txt
+
+# Visual Studio Code specific files
+.vscode/
+
+# Xcode specific files
+*.xcodeproj/
+*.xcworkspace/
+
+# Qt Creator specific files
+*.user
+*.pro.user
+*.pro.user.*
+
+# Eclipse specific files
+.settings/
+.project
+.cproject
+
+# Sublime Text specific files
+*.sublime-*
+
+# Code::Blocks specific files
+*.cbp
+*.depend
+*.layout
+
+# CLion specific files
+.idea/
+
+# Visual Studio specific files
+.vs/
+*.suo
+*.sdf
+*.opensdf
+*.user
+*.sln.docstates
+
+# Compiled Python files
+__pycache__/
+
+# macOS specific files
+.DS_Store
+Thumbs.db
+
+# Windows thumbnail cache files
+Desktop.ini
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
