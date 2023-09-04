@@ -15,19 +15,19 @@ int main(){
         food = "";
 
     std::cout << "Please type a person's name: ";
-    std::cin >> name;
+    getline(std::cin, name);
     std::cout << "Please type a color: ";
-    std::cin >> color;
+    getline(std::cin, color);
     std::cout << "Please type a object: ";
-    std::cin >> object;
+    getline(std::cin, object);
     std::cout << "Please type an animal: ";
-    std::cin >> animal;
+    getline(std::cin, animal);
     std::cout << "Please type a profession/job: ";
-    std::cin >> profession;
+    getline(std::cin, profession);
     std::cout << "Please type a instrument: ";
-    std::cin >> instrument;
+    getline(std::cin, instrument);
     std::cout << "Please type a food: ";
-    std::cin >> food;
+    getline(std::cin, food);
 
     std::cout << "Out of the " << color << ", " << name << " is being chased by an angry " << animal;
     std::cout << ". In the background you see there is a " << profession << " playing a " << instrument;
