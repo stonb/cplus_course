@@ -5,7 +5,8 @@
 //A tier is 8 dollars for 2 items, 5 dollars for any extra item
 //B tier is 12 dollars for 4 items, 4 dollars for any extra item
 //C tier is 15 dollars for 6 items, 3 dollars for any extra item
-int main(){
+int main()
+{
     char selection;
     int numberOfItems = 0;
     int 

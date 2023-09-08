@@ -1,7 +1,8 @@
 #include <iostream>
 
 //Program that allows to reverse number that is max unsigned long long
-int main(){
+int main()
+{
     
     unsigned long long 
         originalNumber = 0,

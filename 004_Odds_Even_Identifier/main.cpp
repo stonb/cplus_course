@@ -4,7 +4,8 @@
 
 //Program that checks if 10 numbers are either odd or even
 //Numbers are calculated randomly using srand/rand functions
-int main(){
+int main()
+{
 
     srand(time(nullptr));
 

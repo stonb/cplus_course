@@ -1,7 +1,8 @@
 #include <iostream>
 
 //Program to display on screen the times table from 1 to 12
-int main(){
+int main()
+{
     
     std::cout << "TIMES TABLES: " << std::endl;
     

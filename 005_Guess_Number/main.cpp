@@ -4,7 +4,8 @@
 
 //Program allows the user to guess a number between 0 to a 100
 //It also counts the ammount of times it took the player to guess the right number
-int main(){
+int main()
+{
     srand(time(nullptr));
     int randomNumber = rand() % 101 + 1; // Random number betwwen 1 and 100
     bool isGuessCorrect = false;

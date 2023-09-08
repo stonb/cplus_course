@@ -4,7 +4,8 @@
 //This program simulates a simple Mad Libs game
 //User gets queried random words
 //Then a random story is written
-int main(){
+int main()
+{
     std::string 
         name = "",
         color = "",

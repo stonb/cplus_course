@@ -1,7 +1,8 @@
 #include <iostream>
 
 //Program to calculate/generate the times table for a number X
-int main(){
+int main()
+{
     int number = 0;
     
     std::cout << "Enter the number you would you like to create its times table? " << std::endl;
